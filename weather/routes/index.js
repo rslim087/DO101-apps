@@ -35,5 +35,5 @@ router.post('/get_weather', async function (req,res) {
   }
 
 });
-
+console.log("h");
 module.exports = router;
